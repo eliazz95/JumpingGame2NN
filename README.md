@@ -1,1 +1,1 @@
-# JumpingGame2
+# JumpingGame2 Neural Network
